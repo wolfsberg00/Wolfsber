@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "lostgang.aternos.me",
+    "port": 42886
+    ,
     "version": "1.21.1"
   },
   "position": {
